@@ -1,4 +1,4 @@
-package com.conneich.primitivebeginnings.items;
+package com.conneich.primitivebeginnings.item;
 
 import com.conneich.primitivebeginnings.PrimitiveBeginningsMod;
 import net.minecraft.world.item.Item;
